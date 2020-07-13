@@ -15,7 +15,7 @@ repositories {
 }
 
 def miraiCoreVersion = "+" // <MIRAI_CORE_VERSION>
-def miraiConsoleVersion = "+" // <MIRAI_CONSOLE_VERSION>
+def miraiConsoleVersion = "0.5.2" // <MIRAI_CONSOLE_VERSION>
 
 dependencies {
     compileOnly 'org.jetbrains.kotlin:kotlin-stdlib-jdk8'
